@@ -5,7 +5,7 @@ The code base is big, huge maybe. Questions may arise. What is the most complex 
 
 On out latest Innovation day those were the questions that I wanted answered. In a fast and simple way. I've read the book [Software Design X-Rays](https://pragprog.com/titles/atevol/software-design-x-rays/) by Adam Tornhill a couple of months before, but never had taken the time to practice.
 
-The book Software Design X-Rays explains how to bring up all sorts of useful information from your version control system (e.g. Git). While we mostly focus on the latest revision of the code for things like coverage and quality, there's a whealth of information hidden in your repository. How can you discover which files have been subjet to change most? Which people worked most on certain packages (spoiler: not the one person who touched the code last!). Which files have a tendency to change together?
+The book Software Design X-Rays explains how to bring up all sorts of useful information from your version control system (e.g. Git). While we mostly focus on the latest revision of the code for things like coverage and quality, there's a whealth of information hidden in your repository. How can you discover which files have been subject to change most? Which people worked most on certain packages (spoiler: not the one person who touched the code last!). Which files have a tendency to change together?
 
 To get a good overview of the repository you'll have to define a time span. For long running projects it does not make sense to analyse the whole history. Going back in time 1/2 to 1 year is probably enough -- this depends somewhat on the activity on the repository.
 
